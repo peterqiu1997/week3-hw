@@ -1,0 +1,55 @@
+/*
+ * Single Side
+ */
+/*
+ * Single Corner
+ */
+html {
+  -webkit-box-sizing: border-box;
+  -moz-box-sizing: border-box;
+  box-sizing: border-box;
+  font-size: 16px;
+  line-height: 1.6;
+  color: black; }
+
+*,
+*:before,
+*:after {
+  box-sizing: inherit;
+  position: relative;
+  padding: 0;
+  background: none; }
+
+body {
+  background: white; }
+
+.jquery-btn > span {
+  padding: 3px;
+}
+
+.jquery-img {
+  padding: 3px;
+  width: auto;
+  max-height: 100%;
+}
+
+.container {
+  margin: 0 auto;
+  text-align: center;
+  max-width: 70%;
+  max-height: 50%;
+}
+
+.image-container {
+  margin: 0 auto;
+  width: 600px;
+  height: 400px;
+}
+
+.greetings {
+  max-height: 10%;
+}
+
+.gates {
+  padding: 3px;
+}
